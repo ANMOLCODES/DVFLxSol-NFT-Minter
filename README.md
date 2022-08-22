@@ -1,6 +1,6 @@
 # Introduction
 
-![Candy Machine Preview Image]([https://i.ibb.co/yPrdrrF/cmv2.png](https://github.com/ANMOLCODES/DVFLxSol-NFT-Minter/blob/master/media/demo.png))
+![Candy Machine Preview Image](https://github.com/ANMOLCODES/DVFLxSol-NFT-Minter/blob/master/media/demo.png)
 
 ### Supported Wallets
 
